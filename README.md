@@ -64,6 +64,7 @@ Se o bit mais próximo do corte for ‘1’, incrementa a mantissa (aredondament
 
 6 checagem de Overflow e Underflow:
 Overflow: Se o expoente final excede 511 (111111111) ?????????????????????????????
+
 Underflow: Se o expoente final é igual a zero e perdeu precisão após o alinhamento e normalização
 
 7 Status:
