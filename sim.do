@@ -4,11 +4,10 @@ vmap work work
 vcom FPU.vhd
 vcom FPU_tb.vhd
 
-vsim FPU_tb
+vsim work.FPU_tb
 
-add wave -position insertpoint sim:/FPU_tb/uut/*
-add wave -position insertpoint sim:/FPU_tb/*
+do wave.do
 
-run 200 ns
+run 500 us
 
 view wave
