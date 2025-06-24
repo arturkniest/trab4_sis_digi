@@ -73,5 +73,6 @@ OVERFLOW → Resultado excede a faixa representável
 UNDERFLOW → Resultado muito pequeno para ser representado
 INEXACT → aconteceu arredondamento
 
-
-
+---------------------------------------------------------------
+Infelizmente nao consequi rodar meu codigo corretamente por isso a falta de resultados, nao foi uma boa ideia fazer em VHDL.
+Se podesse fazer de novo trocaria para Verilog, mas espero que a logica no meu codigo esteja correta.
