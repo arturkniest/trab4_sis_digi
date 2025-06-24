@@ -161,5 +161,3 @@ begin
 end Behavioral;
 
 
-
---botar o coiso de onda pra pelo menos dois exemplos( underflow w overflow)
