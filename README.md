@@ -74,5 +74,12 @@ UNDERFLOW → Resultado muito pequeno para ser representado
 INEXACT → aconteceu arredondamento
 
 ---------------------------------------------------------------
+Espectro numerico:
+Botei duas fotos, uma sendo a menor para ter uma ideia e a outra sendo a expandida.
+Ambas mostram apenas numeros positivos, nao teria como botar uma linha para casa numero entao decidi botar 22 linhas entre os numeros 2^x
+decidi isso para ficar mais facil de visualizar. 
+Entre cada 2^-x e 2^x tem 2^22 numeros, por isso decidi botar 22 marcasoes alem de ser um bom numero para visualizar. 
+
+-----------------------------------------------------------------
 Infelizmente nao consequi rodar meu codigo corretamente por isso a falta de resultados, nao foi uma boa ideia fazer em VHDL.
 Se podesse fazer de novo trocaria para Verilog, mas espero que a logica no meu codigo esteja correta.
