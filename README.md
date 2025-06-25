@@ -47,7 +47,7 @@ O sinal, expoente e mantissa são separados dos op_a_in e op_b_in
 
 2 alinhamento de mantissas:
 Se os expoentes são diferentes, a menor mantissa é deslocada à direita pela diferença dos expoentes
-O maior expoente é utilizado como expoente base do resultado
+O maior expoente é utilizado como expoente base do resultado e o sinal usado vem do maior.
 
 3 operação (Soma/Subtração):
 Se os sinais dos operandos são iguais realiza soma
